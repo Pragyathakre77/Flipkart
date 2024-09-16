@@ -1,0 +1,2 @@
+url = 'https://nejvtkycindihtmtyzio.supabase.co'
+key = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5lanZ0a3ljaW5kaWh0bXR5emlvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjI3NzQwNTYsImV4cCI6MjAzODM1MDA1Nn0.URz8J6YSdG5db8GvAF3VTeglCD-9Ljf3nkt8jFUdFuE'
